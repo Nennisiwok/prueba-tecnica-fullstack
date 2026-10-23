@@ -1,0 +1,19 @@
+nombre,apellidos,email,fecha_nacimiento,telefono,talla_camiseta
+Álex,Ruiz Marín,alex.ruiz@example.com,05/07/1988,600000201,L
+Elena,Pastor Gil,elena.pastor@example.com,23/11/1979,,S
+Diego,Díaz García,diego.diaz488@example.org,01/04/1973,600002462,L
+Álvaro,Lozano Martínez,alvaro.lozano49@example.org,28/06/1999,,XS
+Teresa,Domínguez Cortés,teresa.dominguez323@example.org,18/11/1976,600841423,XS
+Teresa,Díaz Vidal,teresa.diaz531@example.org,09/02/1996,600758390,L
+Xavier,Sanz Marín,xavier.sanz57@example.org,02/09/1979,600743675,M
+Bruno,Rivas Sola,bruno.rivas@example.com,03/07/2007,,M
+Claudia,Benítez Rojo,claudia.benitez@example.com,11/02/1993,600000204,S
+Rosa,Méndez Polo,rosa.mendez@example.org,31/02/1990,,M
+Rubén,Gómez Rubio,ruben.gomez742@example.org,17/12/2003,600764015,XL
+Ainhoa,Alonso Rubio,ainhoa.alonso962@example.org,02/06/1996,600422491,L
+Álvaro,Ramos Serrano,alvaro.ramos32@example.org,17/06/1966,,XXL
+Yolanda,Gutiérrez Álvarez,yolanda.gutierrez817@example.org,22/08/1988,600012712,L
+Gonzalo,Torres Serrano,gonzalo.torres151@example.org,10/04/1986,600138116,M
+Noelia,Iglesias Blanco,noelia.iglesias510@example.org,23/02/1992,600631059,XS
+Julia,Suárez García,julia.suarez745@example.org,27/06/1968,600163533,XXL
+Beatriz,Guerrero Rubio,beatriz.guerrero784@example.org,13/05/1999,600750812,XS
